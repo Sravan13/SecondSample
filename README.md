@@ -1,4 +1,4 @@
-FirstSample
+﻿Second Sample
 ===========
-first comment through 
-First practice for to learn git
+Second comment through 
+Second practice for to learn git
