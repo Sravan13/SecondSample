@@ -14,7 +14,7 @@
 
 		<java.version>1.6</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<project.reporting.outputEncoding>UTF-8 Sravan</project.reporting.outputEncoding>
 
 		<!-- Web -->
 		<jsp.version>2.2</jsp.version>
