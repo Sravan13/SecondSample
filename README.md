@@ -2,5 +2,5 @@ FirstSample
 ===========
 first comment through 
 First practice for to learn git
-sachin tendulkar 1
+practicing git hub for demo
 
